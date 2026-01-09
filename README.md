@@ -13,7 +13,6 @@
 - Funciona a través de la app del banco
 - Es inmediato y seguro
 - Muy usado en España
-
 ## Que peligros y estafas hay
 
 Usar **Bizum** es seguro en sí mismo, pero como cualquier herramienta de pago rápida hay peligros y estafas comunes que conviene conocer para no perder dinero ni datos personales.
